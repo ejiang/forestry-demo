@@ -1,4 +1,6 @@
 ---
+pages:
+- new-landing.html
 hide_body: false
 fields:
 - name: title
