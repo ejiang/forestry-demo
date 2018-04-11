@@ -8,9 +8,8 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
+- description: Collaborative research with the health care sector
+  heading: Healthcare
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
